@@ -1,0 +1,14 @@
+{
+  "name": "heroesrats_hmwrk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Food.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.0"
+  }
+}
